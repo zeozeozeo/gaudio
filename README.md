@@ -12,7 +12,7 @@ Audio formats:
 
 -   MP3 ([go-mp3](https://github.com/hajimehoshi/go-mp3))
 -   FLAC ([flac](https://github.com/mewkiz/flac))
--   WAV ([go-dsp/wav](https://github.com/mjibson/go-dsp/wav) and [go-wav](github.com/youpy/go-wav))
+-   WAV ([go-dsp/wav](https://github.com/mjibson/go-dsp/tree/master/wav) and [go-wav](github.com/youpy/go-wav))
 
 Tracker formats:
 
